@@ -1,0 +1,17 @@
+{
+  "name": "vercel-json-api",
+  "version": "1.0.0",
+  "description": "A multi-endpoint JSON API using Vercel serverless functions",
+  "license": "MIT",
+  "author": "Your Name",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "vercel": "^44.5.1"
+  },
+  "devDependencies": {}
+}
