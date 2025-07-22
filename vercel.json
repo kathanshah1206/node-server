@@ -6,7 +6,6 @@
       "use": "@vercel/node"
     }
   ],
-  "ignoreCommand": "echo 'Ignoring node_modules'",
   "routes": [
     {
       "src": "/api/(.*)",
